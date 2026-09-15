@@ -1,0 +1,8 @@
+clouddrift
+xarray
+numpy
+pandas
+matplotlib
+cartopy
+scipy
+jupyter
