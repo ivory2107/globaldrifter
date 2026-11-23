@@ -1,0 +1,9 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "obs"
+    ],
+    "comments": "Estimated near-surface non-diurnal sea water temperature from drifting buoy measurements",
+    "coordinates": "time",
+    "long_name": "Fitted non-diurnal sea water temperature",
+    "units": "Kelvin"
+}

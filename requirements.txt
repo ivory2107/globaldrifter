@@ -1,8 +1,25 @@
-clouddrift
-xarray
-numpy
-pandas
-matplotlib
-cartopy
-scipy
-jupyter
+# DATA3001 - Where the Heat At?
+# Python 3.12
+# Dependencies for RQ1, RQ2, and RQ3
+
+# Shared dependencies for all research questions
+-r requirements_rq3.txt
+
+# Jupyter Notebook environment
+jupyterlab          # Run and edit Jupyter notebooks
+ipykernel           # Python kernel for Jupyter
+nbformat            # Read and manage notebook files
+
+# Working with large GDP and OISST datasets
+dask[array]         # Process large datasets
+zarr                # Store and load GDP data
+
+# Mapping and visualisation
+cartopy             # Geographic maps and coastlines
+geopandas           # Geospatial data processing
+shapely             # Geometric operations
+seaborn             # Statistical visualisations
+
+# Additional utilities
+pyproj              # Coordinate transformations
+requests            # HTTP requests and data downloads

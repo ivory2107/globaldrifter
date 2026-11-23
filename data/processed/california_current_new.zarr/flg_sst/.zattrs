@@ -1,0 +1,10 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "obs"
+    ],
+    "coordinates": "time",
+    "flag_meanings": "no-estimate, no-uncertainty-estimate, estimate-not-in-range-uncertainty-not-in-range, estimate-not-in-range-uncertainty-in-range estimate-in-range-uncertainty-not-in-range, estimate-in-range-uncertainty-in-range",
+    "flag_values": "0, 1, 2, 3, 4, 5",
+    "long_name": "Fitted sea water temperature quality flag",
+    "units": "-"
+}
