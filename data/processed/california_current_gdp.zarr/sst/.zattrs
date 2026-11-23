@@ -1,0 +1,9 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "obs"
+    ],
+    "comments": "Estimated near-surface sea water temperature from drifting buoy measurements. It is the sum of the fitted near-surface non-diurnal sea water temperature and fitted diurnal sea water temperature anomaly. Discrepancies may occur because of rounding.",
+    "coordinates": "time",
+    "long_name": "Fitted sea water temperature",
+    "units": "Kelvin"
+}

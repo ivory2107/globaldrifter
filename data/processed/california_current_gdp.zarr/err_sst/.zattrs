@@ -1,0 +1,9 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "obs"
+    ],
+    "comments": "Estimated one standard error of near-surface sea water temperature estimate from drifting buoy measurements",
+    "coordinates": "time",
+    "long_name": "Standard uncertainty of fitted sea water temperature",
+    "units": "Kelvin"
+}
